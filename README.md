@@ -1,6 +1,6 @@
 # Mega Sena Number Generator
 
-Bem-vindo ao Mega Senna Number Generator, o seu companheiro para aumentar as chances de sucesso nas apostas da Mega Sena! Este aplicativo simples e intuitivo permite que você gere sequências de números para suas apostas, tornando o processo de escolha de números mais fácil e conveniente.
+Bem-vindo ao Mega Sena Number Generator, o seu companheiro para aumentar as chances de sucesso nas apostas da Mega Sena! Este aplicativo simples e intuitivo permite que você gere sequências de números para suas apostas, tornando o processo de escolha de números mais fácil e conveniente.
 
 ## Recursos Principais
 
@@ -15,7 +15,7 @@ Pensando na comodidade do usuário, implementamos a persistência de dados. Agor
 
 ## Como Usar
 
-1. Abra o aplicativo Mega Senna Number Generator.
+1. Abra o aplicativo Mega Sena Number Generator.
 2. Escolha a quantidade desejada de números para sua aposta.
 3. Toque no botão de geração de números para obter sua sequência de números da sorte.
 4. Caso ocorra um erro de entrada, siga as instruções apresentadas na tela para corrigir.
